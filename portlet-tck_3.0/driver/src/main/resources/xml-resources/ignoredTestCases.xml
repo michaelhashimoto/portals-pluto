@@ -26,5 +26,10 @@
 <properties>
 <entry key="V3ResourceAsyncTests_SPEC_21_Async_getThrowable2"></entry>
 <entry key="V3ResourceAsyncTests_SPEC_21_Async_onError"></entry>
+
+<entry key="V2PortletTagLibraryTests2_SPEC2_26_IncludeJSPRender_actionURL3"></entry>
+<entry key="V2PortletTagLibraryTests2_SPEC2_26_IncludeJSPRender_actionURL5"></entry>
+<entry key="V2PortletTagLibraryTests2_SPEC2_26_IncludeJSPRender_renderURL3"></entry>
+<entry key="V2PortletTagLibraryTests2_SPEC2_26_IncludeJSPRender_renderURL5"></entry>
 </properties>
 
